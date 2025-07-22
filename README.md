@@ -1,6 +1,7 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm ZHU Haoyu</h1>
 <h3 align="center">A research student from China</h3>
+
+- 📫 How to reach me **24073381r@connect.polyu.hk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
